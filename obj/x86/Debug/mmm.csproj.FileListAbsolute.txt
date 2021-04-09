@@ -1,0 +1,6 @@
+C:\Users\מיר\Documents\two\bin\Debug\ConsoleApplication.exe
+C:\Users\מיר\Documents\two\bin\Debug\ConsoleApplication.pdb
+C:\Users\מיר\Documents\two\obj\x86\Debug\mmm.csprojAssemblyReference.cache
+C:\Users\מיר\Documents\two\obj\x86\Debug\mmm.csproj.CoreCompileInputs.cache
+C:\Users\מיר\Documents\two\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\מיר\Documents\two\obj\x86\Debug\ConsoleApplication.pdb
